@@ -79,7 +79,7 @@ footer {
     padding: 20px;
     margin-top: 10px;
     border: 2px solid #14334f;
-    background: #8B008B linear-gradient(to top right,
+    background: #8b008b linear-gradient(to top right,
      rgba(101, 115, 255, .5), rgba(99, 106, 237, .5), 
         rgba(97, 97, 218, .5), rgba(94, 87, 200, .5), 
         rgba(92, 78, 181, .5), rgba(90, 69, 163, .5), 
@@ -241,7 +241,7 @@ footer {
     grid-column-end: 3;
     margin-top: 5px;
     padding: 20px;
-    background: #483D8B linear-gradient(to top right,
+    background: #483d8b linear-gradient(to top right,
     rgba(101, 115, 255, .5), rgba(99, 106, 237, .5), 
         rgba(97, 97, 218, .5), rgba(94, 87, 200, .5), 
         rgba(92, 78, 181, .5), rgba(90, 69, 163, .5), 
